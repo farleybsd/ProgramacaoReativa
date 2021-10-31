@@ -1,0 +1,14 @@
+1 - Criando o Projeto
+npm init -y
+
+2 - Instalando O rxjs
+npm i rxjs
+
+3 - Instalando Json-Server
+npm i json-server
+
+4 - Instalando axios
+npm i axios
+
+5 - rodando api 
+npm start
