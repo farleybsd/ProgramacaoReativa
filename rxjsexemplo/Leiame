@@ -12,3 +12,9 @@ npm i axios
 
 5 - rodando api 
 npm start
+
+6 - Entender Operators
+https://rxjs.dev/guide/operators
+
+7 - Para rodar o arquivo
+node exe01.js
