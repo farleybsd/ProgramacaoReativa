@@ -1,0 +1,13 @@
+<h4>FormControl</h4>
+<label>
+  Enter Email:
+  <input type="text" formControlName="email" (keyup)="onKey($event)" />
+</label>
+<p>
+  Display Value : {{email.value}}
+</p>
+
+<button (click)="updateEmail()">click-Me</button>
+<br>
+<br>
+<app-formgroup></app-formgroup>
